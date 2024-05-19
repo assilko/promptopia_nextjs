@@ -4,8 +4,9 @@ Promptopia is a web application built with Next.js that allows users to create a
 
 ## Screenshot
 
-![Promptopia Screenshot](public\assets\images\Promptopia-screenshot.PNG)
-![Promptopia Screenshot](public\assets\images\create_post.PNG) 
+![Promptopia Screenshot](public/assets/images/Promptopia-screenshot.PNG)
+![Create Post Screenshot](public/assets/images/create_post.PNG)
+
 
 ## Features
 
