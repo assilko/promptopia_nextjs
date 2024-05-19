@@ -2,6 +2,10 @@
 
 Promptopia is a web application built with Next.js that allows users to create and share prompt ideas. It features user authentication via Google, a MongoDB database for storing prompts, and a responsive design for an optimal user experience across different devices.
 
+## Deployment
+
+Deployed using Vercel: [Live link](https://promptopia-nextjs-iota.vercel.app/)
+
 ## Screenshot
 
 ![Promptopia Screenshot](public/assets/images/Promptopia-screenshot.PNG)
